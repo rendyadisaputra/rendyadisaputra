@@ -1,29 +1,7 @@
- _______  _______  _        ______           
-(  ____ )(  ____ \( (    /|(  __  \ |\     /|
-| (    )|| (    \/|  \  ( || (  \  )( \   / )
-| (____)|| (__    |   \ | || |   ) | \ (_) / 
-|     __)|  __)   | (\ \) || |   | |  \   /  
-| (\ (   | (      | | \   || |   ) |   ) (   
-| ) \ \__| (____/\| )  \  || (__/  )   | |   
-|/   \__/(_______/|/    )_)(______/    \_/   
-                                             
- ______   _  _______  _______  _______       
-(  __  \ ( )(  ___  )(  ____ \(  ____ \      
-| (  \  )|/ | (   ) || (    \/| (    \/      
-| |   ) |   | (___) || |      | (__          
-| |   | |   |  ___  || |      |  __)         
-| |   ) |   | (   ) || |      | (            
-| (__/  )   | )   ( || (____/\| (____/\      
-(______/    |/     \|(_______/(_______/      
-                                             
-
-
-
 - 👋 Hi, I’m @rendyadisaputra
 - 👀 I’m interested in Any Programming Language
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Machine Learning And Microservices
+- 📫 How to reach me https://www.linkedin.com/in/rendyas/
 
 Modern Tech Enthusiast. 
 Founder of Synxlab. 
